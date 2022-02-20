@@ -1,0 +1,16 @@
+{
+  "schumacher": {
+    "name": "Michael Schumacher",
+    "teams": ["benetton", "ferrari", "mercedes"],
+    "country": "germany",
+    "retired": true,
+    "championships": 7
+  },
+  "hamilton": {
+    "name": "Lewis Hamilton",
+    "teams": ["mclaren", "mercedes"],
+    "country": "unitedkingdom",
+    "retired": false,
+    "championships": 7
+  }
+}

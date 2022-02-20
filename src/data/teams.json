@@ -1,0 +1,30 @@
+{
+  "ferrari": {
+    "id": "ferrari",
+    "title": "Scuderia Ferrari",
+    "country": "italy",
+    "color1": "#ee161f",
+    "color2": "#fff200"
+  },
+  "benetton": {
+    "id": "benetton",
+    "title": "Benetton Formula",
+    "country": "unitedkingdom",
+    "color1": "#006afd",
+    "color2": "#fdfc01"
+  },
+  "mercedes": {
+    "id": "mercedes",
+    "title": "Mercedes-Benz",
+    "country": "germany",
+    "color1": "#f5f6f6",
+    "color2": "#0ea7a1"
+  },
+  "mclaren": {
+    "id": "mclaren",
+    "title": "McLaren",
+    "country": "unitedkingdom",
+    "color1": "#ff8100",
+    "color2": "#9dcde5"
+  }
+}
