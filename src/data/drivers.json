@@ -9,8 +9,16 @@
   "hamilton": {
     "name": "Lewis Hamilton",
     "teams": ["mclaren", "mercedes"],
-    "country": "unitedkingdom",
+    "country": "united_kingdom",
     "retired": false,
     "championships": 7
+  },
+  "fangio": {
+    "name": "Juan Manuel Fangio",
+    "teams": ["alfaromeo", "maserati", "mercedes", "ferrari"],
+    "last": "maserati",
+    "country": "argentina",
+    "retired": true,
+    "championships": 5
   }
 }

@@ -9,7 +9,7 @@
   "benetton": {
     "id": "benetton",
     "title": "Benetton Formula",
-    "country": "unitedkingdom",
+    "country": "united_kingdom",
     "color1": "#006afd",
     "color2": "#fdfc01"
   },
@@ -23,8 +23,22 @@
   "mclaren": {
     "id": "mclaren",
     "title": "McLaren",
-    "country": "unitedkingdom",
+    "country": "united_kingdom",
     "color1": "#ff8100",
     "color2": "#9dcde5"
+  },
+  "alfaromeo": {
+    "id": "alfaromeo",
+    "title": "Alfa Romeo",
+    "country": "switzerland",
+    "color1": "#ffffff",
+    "color2": "#9d1b32"
+  },
+  "maserati": {
+    "id": "maserati",
+    "title": "McLaren",
+    "country": "italy",
+    "color1": "#d60f1a",
+    "color2": "#042853"
   }
 }
