@@ -49,11 +49,11 @@ const DriversGrid = ({
       }
 
       if (sort === "CHAMPIONSHIPS") {
-        ca = a.championships + ca;
-        cb = b.championships + cb;
+        na = a.championships;
+        nb = b.championships;
       }
 
-      return na > nb ? 1 : na < nb ? -1 : a.ca > cb ? 1 : ca < cb ? -1 : 0;
+      return na > nb ? -1 : na < nb ? 1 : a.ca > cb ? 1 : ca < cb ? -1 : 0;
     });
 
   if (direction) {
