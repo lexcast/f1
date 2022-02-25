@@ -40,5 +40,19 @@
     "country": "italy",
     "color1": "#d60f1a",
     "color2": "#042853"
+  },
+  "renault": {
+    "id": "renault",
+    "title": "Renault",
+    "country": "france",
+    "color1": "#ecae01",
+    "color2": "#000000"
+  },
+  "williams": {
+    "id": "williams",
+    "title": "Williams Racing",
+    "country": "united_kingdom",
+    "color1": "#169be0",
+    "color2": "#ffffff"
   }
 }

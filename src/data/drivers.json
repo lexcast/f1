@@ -20,5 +20,12 @@
     "country": "argentina",
     "retired": true,
     "championships": 5
+  },
+  "prost": {
+    "name": "Alain Prost",
+    "teams": ["mclaren", "renault", "ferrari", "williams"],
+    "country": "france",
+    "retired": true,
+    "championships": 4
   }
 }
