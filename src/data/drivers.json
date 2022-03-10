@@ -27,5 +27,12 @@
     "country": "france",
     "retired": true,
     "championships": 4
+  },
+  "vettel": {
+    "name": "Sebastian Vettel",
+    "teams": ["bmw", "tororosso", "redbull", "ferrari", "astonmartin"],
+    "country": "germany",
+    "retired": false,
+    "championships": 4
   }
 }

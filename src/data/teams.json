@@ -54,5 +54,33 @@
     "country": "united_kingdom",
     "color1": "#169be0",
     "color2": "#ffffff"
+  },
+  "bmw": {
+    "id": "bmw",
+    "title": "BMW",
+    "country": "germany",
+    "color1": "#ffffff",
+    "color2": "#0666b0"
+  },
+  "tororosso": {
+    "id": "tororosso",
+    "title": "Scuderia Toro Rosso",
+    "country": "italy",
+    "color1": "#161893",
+    "color2": "#e80c2a"
+  },
+  "redbull": {
+    "id": "redbull",
+    "title": "Red Bull Racing",
+    "country": "austria",
+    "color1": "#001526",
+    "color2": "#de081f"
+  },
+  "astonmartin": {
+    "id": "astonmartin",
+    "title": "Aston Martin",
+    "country": "united_kingdom",
+    "color1": "#00544b",
+    "color2": "#ffffff"
   }
 }
