@@ -82,5 +82,19 @@
     "country": "united_kingdom",
     "color1": "#00544b",
     "color2": "#ffffff"
+  },
+  "cooper": {
+    "id": "cooper",
+    "title": "Cooper Car Company",
+    "country": "united_kingdom",
+    "color1": "#1a2454",
+    "color2": "#ffffff"
+  },
+  "brabham": {
+    "id": "brabham",
+    "title": "Brabham Racing",
+    "country": "united_kingdom",
+    "color1": "#136e15",
+    "color2": "#ffffff"
   }
 }

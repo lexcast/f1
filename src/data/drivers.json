@@ -34,5 +34,12 @@
     "country": "germany",
     "retired": false,
     "championships": 4
+  },
+  "brabham": {
+    "name": "Jack Brabham",
+    "teams": ["cooper", "brabham"],
+    "country": "australia",
+    "retired": true,
+    "championships": 3
   }
 }
