@@ -41,5 +41,12 @@
     "country": "australia",
     "retired": true,
     "championships": 3
+  },
+  "stewart": {
+    "name": "Jackie Stewart",
+    "teams": ["brm", "matra", "tyrrell"],
+    "country": "united_kingdom",
+    "retired": true,
+    "championships": 3
   }
 }

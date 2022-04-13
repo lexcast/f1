@@ -96,5 +96,26 @@
     "country": "united_kingdom",
     "color1": "#136e15",
     "color2": "#ffffff"
+  },
+  "brm": {
+    "id": "brm",
+    "title": "British Racing Motors",
+    "country": "united_kingdom",
+    "color1": "#101363",
+    "color2": "#f23314"
+  },
+  "matra": {
+    "id": "matra",
+    "title": "Equipe Matra Sports",
+    "country": "france",
+    "color1": "#1187c3",
+    "color2": "#ffffff"
+  },
+  "tyrrell": {
+    "id": "tyrrell",
+    "title": "Tyrrell Racing",
+    "country": "united_kingdom",
+    "color1": "#ffffff",
+    "color2": "#184c7e"
   }
 }
