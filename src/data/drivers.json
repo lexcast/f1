@@ -48,5 +48,12 @@
     "country": "united_kingdom",
     "retired": true,
     "championships": 3
+  },
+  "lauda": {
+    "name": "Niki Lauda",
+    "teams": ["march", "brm", "ferrari", "brabham", "mclaren"],
+    "country": "austria",
+    "retired": true,
+    "championships": 3
   }
 }
