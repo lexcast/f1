@@ -1,45 +1,41 @@
 {
   "name": "f1",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "type": "module",
   "homepage": "https://lexcast.github.io/f1/",
-  "dependencies": {
-    "@craco/craco": "^6.3.0",
-    "@tailwindcss/postcss7-compat": "npm:@tailwindcss/postcss7-compat",
-    "autoprefixer": "^9",
-    "postcss": "^8.3.9",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "react-virtualized": "^9.22.3",
-    "remove-accents": "^0.4.2",
-    "vanilla-tilt": "^1.7.2"
-  },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
-    "eject": "react-scripts eject",
-    "predeploy": "yarn build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "lint": "eslint .",
+    "format": "prettier --write ."
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "engines": {
+    "node": ">=22"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vanilla-tilt": "^1.8.1"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.3",
-    "postcss-cli": "^9.0.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "@eslint/js": "^10.0.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.8",
+    "@vitejs/plugin-react": "^6.1.2",
+    "eslint": "^10.13.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "jsdom": "^30.1.3",
+    "prettier": "^3.9.10",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5"
   }
 }
